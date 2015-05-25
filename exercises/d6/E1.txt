@@ -1,0 +1,9 @@
+
+
+
+1. The browser sends a request for a certain domain name from a server
+2. The browser makes the request through HTTP
+3. The request goes to large server banks throughout the world wherever the domain is, and basically tries to retrieve the information associated with a specific domain name. The "address" is the IP address associate with the website that is just the numerical form of the url
+4. Once the request has been made, and the server has found the website, the parameters of the request are sent to framework of the website and its code.
+5. Then the framework sends everything back in html to the server
+6. The server then sends it to the browser to display the html visibly

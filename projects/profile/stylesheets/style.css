@@ -1,0 +1,66 @@
+body {
+	text-align: center;
+	color: white;
+	background: black;}
+.left{
+	background: ##00aa77;
+	background-image: url(http://i.imgur.com/2Jx5JKu.png);
+	background-repeat: repeat-x, repeat;
+	text-align: right; }
+h2{
+  	padding: 20 10 20 0;
+  	font-size: 50px;
+  	font-family: 'Source Sans Pro', sans-serif;
+  	font-weight: 100;
+  	border-style: inset;
+  	border-width: 5px;
+  	margin: 0 0 0 0;}
+.h1p{
+  	background: url(http://i.imgur.com/ggAgIyk.png);
+  	padding: 20 20 20 0;
+  	font-size: 25px;
+  	border-style: inset;
+  	border-width: 5px;
+  	text-align: right;
+  	font-family: 'Source Sans Pro', sans-serif;}
+.jobs1{
+	background: url("http://i.imgur.com/ERpw37p.png");
+	border-style: inset;
+  	border-width: 5px;
+  	text-align: right;
+  	padding: 0 10 0 0;
+  	font-family: 'Source Sans Pro', sans-serif;}
+.jobs2{
+	background: url(http://i.imgur.com/hMO7pCk.png);
+ 	border-style: inset;
+  	border-width: 5px;
+   	text-align: right;
+  	padding: 0 10 0 0;
+  	font-family: 'Source Sans Pro', sans-serif;}
+h4{
+  	text-align: left;
+  	padding: 20 10 20 10;
+  	background: url("http://i.imgur.com/BZYqpD3.png");
+  	font-size: 50px;
+  	font-family: 'Source Sans Pro', sans-serif;
+  	font-weight: 100;
+  	border-style: inset;
+  	border-width: 5px;
+  	margin: 50 0 0 0;}
+.h4p{
+  	background: url(http://i.imgur.com/tnWezjV.png);
+  	padding: 20 20 20 20;
+  	font-size: 25px;
+  	border-style: inset;
+  	border-width: 5px;
+  	text-align: left;
+  	font-family: 'Source Sans Pro', sans-serif;}
+.project{
+  	background: url(http://i.imgur.com/rytEeU9.png);
+ 	border-style: inset;
+  	border-width: 5px;
+   	text-align: left;
+  	padding: 0 10 0 10;
+  	font-family: 'Source Sans Pro', sans-serif;}
+.img{
+  text-align: left;}

@@ -1,0 +1,9 @@
+What shows up on the screen?
+What does it mean?
+Why is the error it displays that particular number?
+Does this in fact mean that Ruby does not rock?
+
+1. An error message that says the controller for this site doesn't exist
+2. see above
+3. It means that the website cannot be found on the server
+4. It is a browser error in that the url has either been removed or typed incorrectly

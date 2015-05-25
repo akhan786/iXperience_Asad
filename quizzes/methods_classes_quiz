@@ -1,0 +1,11 @@
+Q1
+def my_name is the method declaration line
+"Zoo lander" is the code in the method
+end terminates the method
+
+Q2
+8
+
+Q3
+def silly_check(number)
+	
