@@ -1,0 +1,32 @@
+How many routes does this project have? (take a look at routes.rb and make a guess, rake routes will not work because you can't use bundle for this project, your computers don't have postgresql installed yet)
+17 (8 from treasures resources, 8 from comments resources, 1 for root route)
+
+How many models?
+1
+
+How many controllers?
+3
+
+Where does the CRUD logic take place?
+In the controllers (def create, def destroy)
+
+Which view allows us to create a new treasure?
+new.html.erb
+
+
+Which view allows us to comment on an existing treasure?
+show.html.erb
+
+Which view is our home page?
+index.html.erb
+
+
+Which view lists all the treasures?
+index.html.erb
+
+Which attributes belong to treasures? And comments?
+comments- bru, comment, treasure id, created at, updated at
+treasure- title, description, created at, updated at
+
+Which file displays the attributes for each model?
+schema.rb
